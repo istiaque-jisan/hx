@@ -25,16 +25,10 @@ The architecture is:
       - Auto Scaling: CPU-based target tracking
       - Remote State: S3 + DynamoDB Lock
 
-   Folder Structure:   
-hx/
-├── modules/
-│   ├── network/
-│   ├── security/
-│   ├── alb/
-│   ├── ecs/
-│   └── iam/
-├── bootstrap/
-└── config/
+   Folder Structure:
+
+  
+  <img width="189" height="183" alt="image" src="https://github.com/user-attachments/assets/d816f582-d00e-4bdc-897a-b6ca1cd50a18" />
     
 
   ## What Gets Created
