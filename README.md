@@ -79,16 +79,18 @@ This project demonstrates:
 ### How to run the command:
 
 # bootstrap backend
-cd terraform/bootstrap
-terraform init
-terraform apply
-# Note # Run bootstrap once per account.
+- cd terraform/bootstrap
+- terraform init
+- terraform apply
+
+  - [Note] 
+  - Run bootstrap once per account.
 
 # deploy infrastructure
-cd ../config/
-terraform init
-terraform plan
-terraform apply
+- cd ../config/
+- terraform init
+- terraform plan
+- terraform apply
 
 
   ### AI Usage Disclosure
